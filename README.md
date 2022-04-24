@@ -1,3 +1,1 @@
-# color-changer
- Projeto: Página Web que troca cores de modo simples e hexadecimal, com Html, Css e JavaScript puro(Vanilla).
- 
+Project: Web page that changes colors in a simple and hexadecimal way, with Html, Css and pure JavaScript (Vanilla).
